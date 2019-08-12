@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="infernape" size="10.000000 15.879873" />
+    <ImageTarget name="Mamoswine" size="10.000000 15.329861" />
+    <ImageTarget name="Glaceon" size="10.000000 15.140602" />
+    <ImageTarget name="Chimchar" size="10.000000 15.102860" />
+    <ImageTarget name="Phione" size="10.000000 15.074456" />
+    <ImageTarget name="Pikachu" size="10.000000 15.363791" />
+    <ImageTarget name="Pachirisu" size="10.000000 15.250154" />
+    <ImageTarget name="Combee" size="10.000000 15.248260" />
+    <ImageTarget name="Happiny" size="10.000000 15.360501" />
+  </Tracking>
+</QCARConfig>
